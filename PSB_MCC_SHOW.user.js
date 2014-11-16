@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         PSB_MCC_SHOW
-// @namespace    http://your.homepage/
+// @namespace    https://raw.githubusercontent.com/alezhu/PSB_MCC_SHOW/
 // @version      1.0
-// @description  enter something useful
+// @description  Show MCC code in PSB service SmartMoney
 // @author       Константин Павленко (original script writer http://rakeev.name/psb.html)
 // @author       alezhu (convert to user.js)
 // @match        https://pfm.psbank.ru/Transactions
