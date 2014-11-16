@@ -7,6 +7,9 @@
 // @author       alezhu (convert to user.js)
 // @match        https://pfm.psbank.ru/Transactions
 // @include      https://pfm.psbank.ru/Transactions
+// @source      https://raw.githubusercontent.com/alezhu/PSB_MCC_SHOW/master/PSB_MCC_SHOW.user.js
+// @updateURL   https://raw.githubusercontent.com/alezhu/PSB_MCC_SHOW/master/PSB_MCC_SHOW.user.js
+// @downloadURL https://raw.githubusercontent.com/alezhu/PSB_MCC_SHOW/master/PSB_MCC_SHOW.user.js
 // @grant        none
 // ==/UserScript==
 
